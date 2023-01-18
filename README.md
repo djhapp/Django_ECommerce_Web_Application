@@ -1,0 +1,2 @@
+# Django_ECommerce_Web_Application
+Django project
